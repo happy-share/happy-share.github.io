@@ -47,6 +47,7 @@
 
 ### GitHub Simple Using 
 - https://github.com/search  擅用搜索
+- https://help.github.com/
 - https://github.com/explore
 - https://github.com/showcases(Open source showcases)
 - https://github.com/integrations(Powerful integrations that help you and your team build software better, together)
