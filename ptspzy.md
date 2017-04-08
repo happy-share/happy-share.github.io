@@ -3,9 +3,9 @@
 - [Doc](#doc)
 - [Editor](#editor)
 - [Git](#git)
-- [A few good websites](#a few good websites)
-- [FE Code Style](#fe code style)
-- [Study Nodejs](#study nodejs)
+- [A few good websites](#a-few-good-websites)
+- [FE Code Style](#fe-code-style)
+- [Study Nodejs](#study-nodejs)
 - [Book](#book)
 
 # freeCodeCamp
