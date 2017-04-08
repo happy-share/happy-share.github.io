@@ -2,7 +2,7 @@
 - [freeCodeCamp](#freecodecamp)
 - [Doc](#doc)
 - [Editor](#editor)
-- [Git](#git
+- [Git](#git)
 - [A few good websites](#a few good websites)
 - [FE Code Style](#fe code style)
 - [Study Nodejs](#study nodejs)
