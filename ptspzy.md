@@ -45,6 +45,10 @@
 - https://github.com/gotgit/gotgit
 - [gitbook](https://github.com/GitbookIO/gitbook)
 
+# SVN
+- http://blog.csdn.net/e3002/article/details/21469437
+- http://svnbook.red-bean.com/
+
 ### GitHub Simple Using 
 - https://github.com/search  擅用搜索
 - https://help.github.com/
