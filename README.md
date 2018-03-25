@@ -1,4 +1,2 @@
-# Content
 
-## [ptspzy's notes](ptspzy.md)
-## ..
+- [ ] **[A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines)**
