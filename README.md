@@ -6,3 +6,7 @@
 ## vue
 
 - vue 规范 https://cn.vuejs.org/v2/style-guide/
+
+## tool
+
+- mac https://github.com/jaywcjlove/awesome-mac
