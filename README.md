@@ -10,3 +10,7 @@
 ## tool
 
 - mac https://github.com/jaywcjlove/awesome-mac
+
+## nodejs
+
+- https://i5ting.github.io/How-to-learn-node-correctly/ 
