@@ -5,12 +5,16 @@
 
 ## vue
 
-- vue 规范 https://cn.vuejs.org/v2/style-guide/
+- [ ] vue 规范 https://cn.vuejs.org/v2/style-guide/
 
 ## tool
 
-- mac https://github.com/jaywcjlove/awesome-mac
+- [ ] mac https://github.com/jaywcjlove/awesome-mac
 
 ## nodejs
 
-- https://i5ting.github.io/How-to-learn-node-correctly/ 
+- [ ] https://i5ting.github.io/How-to-learn-node-correctly/ 
+
+## JS
+
+- [ ] http://reactivex.io/learnrx/
