@@ -1,20 +1,26 @@
 # FE
-## 综合
+## All
 - [ ] **[ECMAScript 6 入门](http://es6.ruanyifeng.com)**
 - [ ] **[ A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines)**
+- [ ] https://github.com/bendc/frontend-guidelines
 
-## vue
+## Vue
 
 - [ ] vue 规范 https://cn.vuejs.org/v2/style-guide/
 
-## tool
+## Tool
 
 - [ ] mac https://github.com/jaywcjlove/awesome-mac
 
-## nodejs
+## Nodejs
 
 - [ ] https://i5ting.github.io/How-to-learn-node-correctly/ 
+- [ ] https://github.com/i0natan/nodebestpractices
+- [ ] https://github.com/mattdesl/module-best-practices
+- [ ] https://github.com/parro-it/awesome-micro-npm-packages
+- [ ] https://cnodejs.org/?tab=good 
 
 ## JS
 
 - [ ] http://reactivex.io/learnrx/
+
