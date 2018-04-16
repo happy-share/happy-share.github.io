@@ -3,6 +3,7 @@
 - [ ] **[ECMAScript 6 入门](http://es6.ruanyifeng.com)**
 - [ ] **[ A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines)**
 - [ ] https://github.com/bendc/frontend-guidelines
+- [ ] https://github.com/getify/You-Dont-Know-JS 有中文版分支
 
 ## Vue
 
